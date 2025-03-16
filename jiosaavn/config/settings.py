@@ -1,9 +1,9 @@
 from os import getenv
 
 # Environment configurations with default values
-API_ID = int(getenv("API_ID", "22419004"))  # Ensure API_ID is an integer
-API_HASH = getenv("API_HASH", "34982b52c4a83c2af3ce8f4fe12fe4e1")
-BOT_TOKEN = getenv("BOT_TOKEN", "7564755990:AAGovA__Fo-jw3v4X0cpcyLmsNre3OAKFcA")
+API_ID = int(getenv("API_ID", "29382018"))  # Ensure API_ID is an integer
+API_HASH = getenv("API_HASH", "4734a726c04620c61ec0a28a1ae0d57f)
+BOT_TOKEN = getenv("BOT_TOKEN", "7263651194:AAFbcYI7kDOheHBulGAM3M6ubeRE9_lXjEs")
 
 # Bot commands configuration
 BOT_COMMANDS = (
